@@ -1,3 +1,5 @@
 There's stuff in here!
 
-hey look an experimental idea appeared
+Hey look an experimental idea appeared!
+
+Let's polish this up so that it's ready to merge.
